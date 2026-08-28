@@ -2,7 +2,7 @@
 Terminal Theme Tester
 =====================
 Simple program to test your color scheme/theme.
-Built on and for Linux Mint/ GNOME Terminal.
+Built on and for the GNOME Terminal.
 
 Usage:
 
