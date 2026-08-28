@@ -1,4 +1,4 @@
-=====================
+
 Terminal Theme Tester
 =====================
 Simple program to test your color scheme/theme.
